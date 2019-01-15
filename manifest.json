@@ -27,12 +27,6 @@
       "*://*.habitica.com/static/*"
     ]
   }],
-  "externally_connectable": {
-    "matches": [
-      "*://*.habitica.com/*",
-      "*://*.habitica.com/static/*"
-    ]
-  },
   "web_accessible_resources": [
     "mainChat/chat.css",
     "mainChat/chat_inPage.js",
